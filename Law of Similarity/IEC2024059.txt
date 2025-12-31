@@ -1,0 +1,8 @@
+https://www.figma.com/design/2ncshPxlkKIoJYjHUVI2Rc/Similarity?node-id=0-1&t=neUK5GC1w6enH20N-1
+
+Bad Similarity (left):
+All elements—background, input fields, and button—use very similar colors and styles. Because everything looks alike, the brain struggles to distinguish what is most important. The “Sign In” button doesn’t stand out, so users may hesitate or feel confused about where to click.
+
+Good Similarity (right):
+The input fields share a similar style (grouped together), while the Sign In button is visually different (strong blue color). This contrast breaks similarity in a purposeful way, clearly signaling that the button is an action. The user instantly understands the structure:
+fields belong together → button is the next step.
