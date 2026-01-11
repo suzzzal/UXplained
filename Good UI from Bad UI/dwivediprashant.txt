@@ -1,0 +1,8 @@
+Figma link : https://www.figma.com/design/rr6WccuiCk1OBPNbibv9EJ/Untitled?node-id=0-1&t=akAGeT91GmVzqyMQ-1
+
+
+----------description-----------------
+This UI presents a clean, user-friendly mobile banking experience with a consistent maroon-and-white color palette that reinforces brand identity and trust. 
+The home screen focuses on quick accessibility, offering clearly labeled action buttons for core tasks like accounts, payments, and settings, followed by a prominent promotions card to highlight offers without overwhelming the user. 
+The second screen emphasizes discoverability, using tabs, search, and well-spaced cards to browse promotions easily, each supported by simple icons and readable text hierarchy. 
+Overall, the layout feels balanced and intuitive, with ample white space, rounded components, and a fixed bottom navigation that ensures smooth movement between key sections of the app.
