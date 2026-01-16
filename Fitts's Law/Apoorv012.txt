@@ -1,0 +1,5 @@
+Figma Link:
+https://www.figma.com/design/viWdx5DGZsQzItB1luXa9d/Fitts-Law?node-id=0-1&t=az2XwWlTRpQWPBSw-1
+
+Description:
+Placing the button in a more convenient place, so that the user does not have any confusion, on where to click.
