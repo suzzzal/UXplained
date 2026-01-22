@@ -1,0 +1,10 @@
+Figma Link:
+https://www.figma.com/design/gyhwLmEJV2kJsUdezlCNhx/Whatsapp--%3E-Telegram?node-id=0-1&t=zJ210k4s0Y7k3ofH-1
+
+Description:
+I made whatsapp UI, in telegram style.
+
+- The main changes I saw were that whatsapp uses a lot of green color, and telegram uses blue color instead.
+- WhatsApp focuses on general bottom navbar, and top bar, and proper buttons...
+- Telegram has a more modern look. It focusses on floating buttons, with shadows. Navbar is also floating.
+- Telegram also has a bit of glassmorphism.
