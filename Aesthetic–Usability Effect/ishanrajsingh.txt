@@ -1,0 +1,5 @@
+Figma Link:
+https://www.figma.com/design/pu6wTtMELQsql5uUR8oiIs/Untitled?node-id=0-1&t=gXEKFafQHXhIy1Yk-1
+
+Description:
+Introduced a card-based layout with soft shadows and rounded corners for a modern and clean look, improved spacing, alignment, and padding to reduce clutter and improve readability and provide aesthetic look.
