@@ -1,0 +1,6 @@
+Figma Link:
+https://www.figma.com/design/wO6qOTy9Bn6U6PSf0KXmOz/Untitled?node-id=0-1&t=fJ9fi23IfDWKp3KL-1
+
+Approach:
+I studied the reference UI in detail to make almost exact replica of it.
+The lines grid took a lot of effort and hours to make
